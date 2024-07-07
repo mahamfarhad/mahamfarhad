@@ -1,3 +1,4 @@
+![logo](https://github.com/mahamfarhad/mahamfarhad/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Maham Farhad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
